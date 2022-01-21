@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Jhonn a full-stack developer based in Santo Domingo, 🇩🇴 DR. 
-I working primarily with Laravel and Vue.js
+# I'm Jhonn a full-stack developer based in Santo Domingo, 🇩🇴 DR. 
+# I working primarily with Laravel and Vue.js
 
 📫 How to reach me:
 hello@jhonn.dev
