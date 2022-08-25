@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### I'm Jhonn a full-stack developer based in Santo Domingo, 🇩🇴 DR. 
-### I working primarily with Laravel and Vue.js
+### I working primarily with Vue.js and Node.js
 
-📫 How to reach me:
+- 🔭 I’m currently working on amiloz.com
+- 📫 How to reach me:
 hello@jhonn.dev
 
 <!--
