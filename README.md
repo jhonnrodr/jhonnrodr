@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Jhonn a full-stack developer based in Santo Domingo, 🇩🇴 DR. 
-### I working primarily with ReactJS, Vue.js and Node.js
+### I working primarily with TS, ReactJS, Node.js and Python.
 
 - 🔭 I’m currently working on amiloz.com
 - 📫 How to reach me:
